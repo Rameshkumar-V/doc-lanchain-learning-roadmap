@@ -1,7 +1,4 @@
-Thanks for the feedback! Below is a **Beginner-Friendly, Simplified LangChain Learning Roadmap** written clearly step-by-step.
-I have **fixed the broken links** and removed unnecessary complexity. This is structured like a **personal learning guide** — ideal if you are starting from zero.
 
-You can save this `.md` file for future reference.
 
 ---
 
@@ -196,9 +193,4 @@ An AI that **uses tools**, like:
 
 ---
 
-If you want, I can also turn this into:
 
-* **A PDF for easy sharing**
-* **A Notion template for tracking your progress**
-
-Just let me know!
